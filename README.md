@@ -2,78 +2,78 @@
 
 # MPS Data Commons
 
-### Community-curated discovery of public MPS datasets
+### Community-curated discovery of public MPS datasets.
 
 Part of the [PhysioVerse](https://physioverse.org/) community ecosystem.
 
-**No programming experience is required to contribute.**
+<br>
 
-[Start contributing](CONTRIBUTING.md) · [PhysioVerse](https://physioverse.org/) · [Community projects](https://github.com/PhysioVerse-OSE)
+## Contribute to This Project
+
+<a href="https://github.com/PhysioVerse-OSE/mps-data-commons/issues/new?template=community-contribution.yml"><img src="https://img.shields.io/badge/Make-a%20Contribution-0B6670?style=for-the-badge" alt="Make a Contribution"></a>
+<a href="https://github.com/PhysioVerse-OSE/mps-data-commons/issues/new?template=resource-nomination.yml"><img src="https://img.shields.io/badge/Nominate-a%20Resource-365F91?style=for-the-badge" alt="Nominate a Resource"></a>
+<a href="https://github.com/PhysioVerse-OSE/mps-data-commons/issues"><img src="https://img.shields.io/badge/View-Open%20Tasks-C69214?style=for-the-badge" alt="View Open Tasks"></a>
+
+<br>
+
+**No programming experience is required for most contributions.**
 
 </div>
 
 ---
 
-## The community question
+## What This Project Is Building
 
-> **What public MPS datasets exist, where can they be accessed, and what information is needed to make them easier to discover and reuse?**
+Community-curated discovery of public MPS datasets.
 
-This project is a public working space for the MPS community. It is intended to collect evidence, examples, terminology, data resources, and community review that can improve shared MPS resources across PhysioVerse.
+This repository is a public working space where the MPS community can contribute scientific evidence, data resources, terminology, standards input, protocols, examples, and review.
 
-## How you can help
+## How You Can Contribute
 
-You can make a useful contribution in a few minutes:
+Nominate datasets, add accessions or DOIs, correct records, identify missing datasets.
 
-- Nominate a public MPS dataset, repository accession, DOI, or publication.
-- Add or correct tissue, model-system, perturbation, assay, or data-modality information.
-- Identify an important public dataset that is missing.
-- Review an existing dataset record for accuracy and completeness.
+You can also:
 
-### Choose the easiest path
+- suggest an important public resource that is missing;
+- provide a DOI, accession, publication, standard, ontology, protocol, or other public source;
+- review an existing proposal or resource for accuracy and completeness;
+- join an open issue and add evidence or domain expertise;
 
-1. Open the **Issues** tab.
-2. Select the contribution form that best matches what you want to share.
-3. Complete what you know. You do not need to answer information you do not have unless the form marks it as required.
-4. Submit the form.
-5. Join the public discussion if other community members ask questions or suggest refinements.
+## The Fastest Contribution Path
 
-You do **not** need to clone this repository, use Git commands, or write code for community contributions.
+1. Click **Make a Contribution** above.
+2. Complete the short GitHub form with what you know.
+3. Add a public source when available.
+4. Submit the issue.
+5. Join the discussion if other community members ask questions or suggest refinements.
 
-## Contribution levels
+You do not need to clone this repository or use Git commands.
 
-| Path | Good for | Typical time |
+## Other Contribution Options
+
+| Action | Best for | Direct link |
 |---|---|---|
-| **Quick contribution** | Nominate a dataset, protocol, term, field, reference, publication, or missing resource | A few minutes |
-| **Community review** | Comment on definitions, standards drafts, evidence, or proposed criteria | As available |
-| **Project contributor** | Help curate accepted contributions, improve working drafts, organize evidence, or maintain resources | Ongoing |
+| **Make a community contribution** | Evidence, examples, proposed fields, terminology, scientific suggestions, or general project input | [Open form](https://github.com/PhysioVerse-OSE/mps-data-commons/issues/new?template=community-contribution.yml) |
+| **Nominate a public resource** | Datasets, protocols, standards, publications, ontologies, reference resources, or other reusable public materials | [Open form](https://github.com/PhysioVerse-OSE/mps-data-commons/issues/new?template=resource-nomination.yml) |
+| **View open tasks** | Join an existing discussion or starter opportunity | [View issues](https://github.com/PhysioVerse-OSE/mps-data-commons/issues) |
 
-## What this project will produce
 
-- A transparent public record of community input and evidence.
-- Curated resources and working materials that can inform PhysioVerse.
-- Clearly documented open questions where community input is still needed.
-- Versioned outputs as the project matures.
+## Contribution Levels
 
-## Starter opportunities
+| Path | Typical contribution |
+|---|---|
+| **Quick contribution** | Nominate a resource, suggest a field or definition, identify a gap, share a publication |
+| **Community review** | Review a proposal, compare evidence, comment on terminology or standards alignment |
+| **Project contributor** | Help curate accepted contributions, organize evidence, improve drafts, maintain shared resources |
 
-- Nominate public lung MPS datasets
-- Nominate public liver MPS datasets
-- Nominate public kidney MPS datasets
-- Identify MPS datasets with both imaging and omics
-- Review the minimum information needed for a useful dataset record
+## Contribution Guidance
 
-## Working approach
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for additional guidance.
 
-PhysioVerse does not treat an initial draft as a community standard merely because it appears in this repository. Drafts are starting points for discussion. Where relevant, the project will seek alignment with existing standards, ontologies, controlled vocabularies, and established MPS practices before proposing new terminology.
+Only share information that can be discussed publicly. Do not submit confidential, proprietary, patient-identifiable, or otherwise restricted information.
 
-Accepted contributions should be traceable to public evidence or clearly identified as community proposals when evidence is still developing.
+## PhysioVerse
 
-## Recognition
-
-Meaningful accepted contributions can be acknowledged in project records and contributor summaries. Opening an issue alone does not imply scientific endorsement, consensus, or authorship.
-
-## Get involved
-
-Start with [CONTRIBUTING.md](CONTRIBUTING.md), then choose a contribution form under the repository's **Issues** tab.
-
-For the broader ecosystem, visit [physioverse.org](https://physioverse.org/).
+[Visit PhysioVerse](https://physioverse.org/) ·
+[Explore the PhysioVerse GitHub profile](https://github.com/PhysioVerse-OSE) ·
+[Start contributing](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/blob/main/START_CONTRIBUTING.md)
